@@ -4,7 +4,7 @@ An interactive Power BI E-Commerce Sales Dashboard built to analyze business per
 
 ## 📊 Dashboard File
 
-[Download ToyStore Dashboard (.pbix)](https://drive.google.com/file/d/1iLSH73Lx-QhNc5eKPHvH9HHoaiN9dMm0/view?usp=sharing)
+[Download ToyStore Dashboard (.pbix)](https://drive.google.com/drive/folders/1FhQNrp5CgTDarnwP0awcJEAeWdyLzLA3?usp=drive_link)
 
 # Dashboard Preview
 
