@@ -4,8 +4,8 @@
 # Dashboard Preview
 
 ### Executive Overview
-![Toy-Store-Analytic-Dashboard](screenShots/Executive Overview.png)
+![Toy-Store-Analytic-Dashboard](screenShots/ExecutiveOverview.png)
 
 ### Sales Performance
-![Toy-Store-Analytic-Dashboard](screenShots/Sales Performance.png)
+![Toy-Store-Analytic-Dashboard](screenShots/SalesPerformance.png)
 
